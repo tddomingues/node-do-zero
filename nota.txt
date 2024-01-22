@@ -1,0 +1,11 @@
+1)integrando ao servidor
+a)neon.tech: banco de dados free
+b)npm install postgres -> siga as instruções
+b.1)criar arq db.js
+
+
+database-postgres está no banco de dados neon:
+a) pra isso foi preciso criar um db.js e .env(serve para ser utilizado no db.js de forma anônima)
+b) a tabela foi crianda de forma dinâmica no create-table.js
+
+para hospedar: render
